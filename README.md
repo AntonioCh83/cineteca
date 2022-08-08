@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### IMPORTANT ###
+create a .env file with fetch url http://www.omdbapi.com/ and APIKEY that you received when you signed up to this site.
+
 ## Available Scripts
 
 In the project directory, you can run:
